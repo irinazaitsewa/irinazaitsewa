@@ -7,7 +7,7 @@
     <a href="https://vk.com/zaichatina">
     <img src="https://img.shields.io/badge/vk.com-blue?style=for-the-badge&logo=vk.com&logoColor=white" alt="vk.com"/>
   </a>
-  <a href="@i_r_i_n_a_zaytseva">
+  <a href="t.me/@i_r_i_n_a_zaytseva">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
