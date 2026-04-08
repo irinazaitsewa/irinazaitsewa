@@ -7,16 +7,16 @@
     <a href="https://vk.com/zaichatina">
     <img src="https://img.shields.io/badge/vk.com-blue?style=for-the-badge&logo=vk.com&logoColor=white" alt="vk.com"/>
   </a>
-  <a href="t.me/@i_r_i_n_a_zaytseva">
+  <a href="t.me/i_r_i_n_a_zaytseva">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
 
 ### Обо мне
-- :computer: Весной 2026г я получила диплом по направлению **'Верификация и тестирование программного обеспечения'**
+- :computer: Весной 2026г получила диплом по направлению **'Верификация и тестирование программного обеспечения'**
 - :woman_teacher: Я продолжаю получать новые знания, и в настоящее время изучаю алгоритмы и структуры данных
 - :page_facing_up: Узнать о моем стаже в иных областях можно здесь -> [hh](https://nn.hh.ru/resume/88a8652aff04212c890039ed1f676130685766)
-- 📫 Связаться со мной можно по почте в профиле, а также через значки выше: ВК и ТГ
+- 📫 Связь со мной по почте в профиле, а также по ссылкам выше: ВК и ТГ
 - :earth_americas: Могу поддержать разговор на английском, в планах пройти курсы английского для IT-специалистов
   
 ---
